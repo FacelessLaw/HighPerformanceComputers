@@ -10,4 +10,4 @@ double h1 = (A2 - A1) / M;
 double h2 = (B2 - B1) / N;
 
 const double EPS = 1e-6;
-const double TARGET_EPS = 1e-8;
+const double TARGET_EPS = 1e-6;
